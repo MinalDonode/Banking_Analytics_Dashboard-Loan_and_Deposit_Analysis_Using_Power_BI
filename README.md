@@ -1,4 +1,4 @@
-# **Banking Analytics Dashboard (Loan and Deposit Analysis Using Power BI)**
+# **Banking Analytics Dashboard (Loan & Deposit Analysis Using Power BI)**
 
 ## **Project Overview**
 
